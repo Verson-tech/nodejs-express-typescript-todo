@@ -9,4 +9,4 @@
 #Tools and technologies used:
 `Postman` - REST API testing
 
-![Image](../imgs/Screenshot%202023-12-11%20at%202.05.37%20PM.png)
+![Image](../src/imgs/Screenshot.png)
