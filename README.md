@@ -56,4 +56,8 @@ and
 
 `};`
 
-![Image](/src/imgs/Screenshot.png)
+![Image](/src/imgs/Post.png)
+
+![Image](/src/imgs/Get.png)
+
+## UDEMY/Maximilian Schwarzmüller/Understanding TypeScript/Section 15
