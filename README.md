@@ -22,7 +22,6 @@ For example, in
 
 ## /src/models/todo.ts
 
-`
 `export class Todo {`
 
 `constructor(public id: string, public text: string) {`
@@ -30,13 +29,11 @@ For example, in
 `}`
 
 `}`
-'
 
 and
 
 ## /src/controllers/todos.ts`:
 
-`
 `import { RequestHandler } from "express";`
 
 `import { Todo } from "../models/todo";`
@@ -58,5 +55,5 @@ and
 ` createdTodo: newTodo });`
 
 `};`
-`
+
 ![Image](/src/imgs/Screenshot%202023-12-11%20at%202.05.37%20PM.png)
