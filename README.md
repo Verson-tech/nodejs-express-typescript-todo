@@ -26,13 +26,13 @@ For example, in
 
 `constructor(public id: string, public text: string) {`
 
-`}`
+                `}`
 
-`}`
+              `}`
 
 and
 
-## /src/controllers/todos.ts`:
+## /src/controllers/todos.ts:
 
 `import { RequestHandler } from "express";`
 
@@ -56,4 +56,4 @@ and
 
 `};`
 
-![Image](/src/imgs/Screenshot%202023-12-11%20at%202.05.37%20PM.png)
+![Image](../src/imgs/Screenshot.png)
