@@ -1,6 +1,6 @@
 ## Node.js Express TypeScript ToDo Application Models
 
-##`ToDo` application frameworks, libraries, languages and database:
+## `ToDo` application frameworks, libraries, languages and database:
 
 `ExpressJS` - creates a REST API
 
@@ -10,7 +10,7 @@
 
 `MongoDB` can be used as the database.
 
-##Tools and technologies used:
+## Tools and technologies used:
 
 `Postman` - REST API testing
 
