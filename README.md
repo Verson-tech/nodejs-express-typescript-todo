@@ -60,4 +60,6 @@ and
 
 ![Image](/src/imgs/Get.png)
 
+![Image](/src/imgs/Delete.png)
+
 ## UDEMY/Maximilian Schwarzmüller/Understanding TypeScript/Section 15
