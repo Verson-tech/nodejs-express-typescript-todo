@@ -56,4 +56,4 @@ and
 
 `};`
 
-![Image](../src/imgs/Screenshot.png)
+![Image](/src/imgs/Screenshot.png)
